@@ -1,0 +1,4 @@
+cron:
+- description: Send keepalive pings
+  url: /
+  schedule: every 5 minutes
